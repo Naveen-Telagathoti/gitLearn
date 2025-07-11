@@ -1,0 +1,7 @@
+started learning the git 
+
+this is an untracked file means this is an " working directiory "
+
+we have created a file ,saved it , but didn't commit any git commands 
+
+in simply way untracked are called as working directory 
